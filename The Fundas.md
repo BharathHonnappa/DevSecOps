@@ -1,5 +1,5 @@
-![[Pasted image 20260401184448.png]]
-
+#le début
+![8 Chapters] (https://github.com/BharathHonnappa/The_DevSecOps/blob/main/image/8_chapters.jpg)
 # The Source (Git)
 Why Version Control is the first line of defense in the DevSecOps lifecycle.
 

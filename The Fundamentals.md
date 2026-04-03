@@ -62,7 +62,7 @@ Being comfortable with the Linux terminal provides many capabilities
 
 # Networking 
 
-Here I will be sharing a CCNA playlist from Network Chuck, which I prefer the best content and the fun way to learn.
+Here I will be sharing a CCNA playlist from Network Chuck, which I prefer the best content and the fun way to learn networks.
 
 https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P
 
